@@ -1,14 +1,14 @@
 # Example
 
-Example of [mount-lite] 2.0.0 behavior when starting parts of the system.
+[![Build Status](https://travis-ci.org/dryewo/mount-lite-example.svg?branch=master)](https://travis-ci.org/dryewo/mount-lite-example)
+
+Example of [mount-lite] 2.0.0 behavior when starting parts of the system (for https://github.com/aroemers/mount-lite/issues/15).
 
 Let's assume we have these states:
 
 ```
         +-- state1
-        |
 base <--+
-        |
         +-- state2
 ```
 
